@@ -1,6 +1,25 @@
 const feed = document.getElementById("feed");
 const LANG = "en"; // becomes "en" or "my" in a later task
 
+const roleSelect = document.getElementById("role");
+const topicSelect = document.getElementById("topic");
+let allItems = [];
+
+function loadPrefs() {
+  try {
+    return JSON.parse(localStorage.getItem("nbp-prefs")) || {};
+  } catch {
+    return {};
+  }
+}
+
+function savePrefs() {
+  localStorage.setItem("nbp-prefs", JSON.stringify({
+    role: roleSelect.value,
+    topic: topicSelect.value,
+  }));
+}
+
 function esc(text) {
   const div = document.createElement("div");
   div.textContent = text ?? "";
@@ -36,16 +55,44 @@ function renderStory(item) {
       </a>
     </article>`;
 }
+function fillTopics() {
+  const topics = [...new Set(allItems.map((i) => i.topic))];
+  topicSelect.innerHTML =
+    `<option value="all">All topics</option>` +
+    topics.map((t) => `<option value="${esc(t)}">${esc(t.replace(/-/g, " "))}</option>`).join("");
+}
 
+function render() {
+  const role = roleSelect.value;
+  const topic = topicSelect.value;
+  const shown = allItems.filter(
+    (i) => i.roles.includes(role) && (topic === "all" || i.topic === topic)
+  );
+  feed.innerHTML = shown.length
+    ? shown.map(renderStory).join("")
+    : `<p class="status">No stories match these filters.</p>`;
+}
 async function loadNews() {
   try {
     const res = await fetch("data/news.json");
     if (!res.ok) throw new Error("file not found (" + res.status + ")");
     const items = await res.json();
-    feed.innerHTML = items.map(renderStory).join("");
+    allItems = items;
+fillTopics();
+const prefs = loadPrefs();
+if (prefs.role) roleSelect.value = prefs.role;
+if (prefs.topic && [...topicSelect.options].some((o) => o.value === prefs.topic)) {
+  topicSelect.value = prefs.topic;
+}
+render();
   } catch (err) {
     feed.innerHTML = `<p class="status">Could not load news: ${esc(err.message)}</p>`;
   }
 }
-
+[roleSelect, topicSelect].forEach((el) =>
+  el.addEventListener("change", () => {
+    savePrefs();
+    render();
+  })
+);
 loadNews();
