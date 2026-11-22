@@ -131,3 +131,9 @@ a:focus-visible {
   font-size: 0.85rem;
   color: var(--muted);
 }
+html[lang="my"] {
+  --serif: "Noto Sans Myanmar", sans-serif;
+  --sans: "Noto Sans Myanmar", sans-serif;
+}
+html[lang="my"] body { line-height: 1.9; }
+html[lang="my"] .story h2 { line-height: 1.5; }
