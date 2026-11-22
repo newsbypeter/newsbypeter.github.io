@@ -24,7 +24,7 @@ ROLES = {
     "international-law": ["ir", "law"],
     "human-rights": ["ir", "law"],
     "diplomacy": ["ir"],
-    "world": ["ir"],
+    "world": ["ir","law"],
 }
 
 STOPWORDS = {"the", "and", "for", "with", "from", "that", "this", "after", "over",
