@@ -6,32 +6,42 @@
   <title>News by Peter</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@400;600&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@400;600&family=Noto+Sans+Myanmar:wght@400;600&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header class="site-header">
     <h1>News by Peter</h1>
   </header>
+
   <nav class="filters" aria-label="Feed filters">
-  <label>Role
-    <select id="role">
-      <option value="ir">International Relations</option>
-      <option value="law">Law</option>
-    </select>
-  </label>
-  <label>Topic
-    <select id="topic">
-      <option value="all">All topics</option>
-    </select>
-  </label>
-</nav>
+    <label><span data-i18n="role">Role</span>
+      <select id="role">
+        <option value="ir" data-i18n="roleIr">International Relations</option>
+        <option value="law" data-i18n="roleLaw">Law</option>
+      </select>
+    </label>
+    <label><span data-i18n="topic">Topic</span>
+      <select id="topic">
+        <option value="all" data-i18n="allTopics">All topics</option>
+      </select>
+    </label>
+    <label><span data-i18n="language">Language</span>
+      <select id="lang">
+        <option value="en">English</option>
+        <option value="my">မြန်မာ</option>
+      </select>
+    </label>
+  </nav>
+
   <main id="feed" aria-live="polite">
-    <p class="status">Loading news…</p>
+    <p class="status" data-i18n="loading">Loading news…</p>
   </main>
-  <script src="js/app.js" defer></script>
-  <footer class="site-footer">
-    သတင်းသုံးသပ်ချက်များကို ဉာဏ်ရည်တုနည်းပညာအသုံးပြု၍ ရေးသားထားပါသဖြင့် မူရင်းသတင်းရင်းမြစ်များနှင့် တိုက်ဆိုင်ဖတ်ရှုပါရန် တိုက်တွန်းအပ်ပါသည်။​ 
+
+  <footer class="site-footer" data-i18n="footer">
+    Analysis sections are AI-generated from each headline and summary. Check the source before relying on them.
   </footer>
+
+  <script src="js/app.js" defer></script>
 </body>
 </html>
