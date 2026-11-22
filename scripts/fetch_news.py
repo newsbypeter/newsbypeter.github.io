@@ -6,7 +6,7 @@ from datetime import date
 from pathlib import Path
 
 import feedparser
-
+from analyze import analyze_all
 FEEDS = {
     "BBC News": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
@@ -115,6 +115,7 @@ def main():
 
     today = date.today().isoformat()
     items = [build_item(g, i, today) for i, g in enumerate(confirmed[:MAX_ITEMS], start=1)]
+        analyze_all(items)
     OUT_FILE.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Wrote {len(items)} stories to {OUT_FILE}")
 
