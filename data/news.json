@@ -2,40 +2,297 @@
   {
     "id": "2026-11-22-001",
     "date": "2026-11-22",
-    "topic": "international-law",
-    "roles": ["ir", "law"],
-    "title": { "en": "Sample: Court hears a maritime boundary dispute", "my": "" },
-    "details": { "en": "Sample text. Two neighbouring states present competing claims over a shared sea boundary before an international court.", "my": "" },
-    "why_it_matters": { "en": "Sample text. Boundary rulings set precedents for fishing rights, energy exploration and the interpretation of treaty law.", "my": "" },
-    "perspectives": { "en": "Sample text. One state stresses historical usage; the other relies on the equidistance principle in the law of the sea.", "my": "" },
-    "reasoning": { "en": "Sample text. A ruling close to equidistance seems likely, but the court may adjust for coastline shape.", "my": "" },
-    "source": { "name": "Reuters", "url": "https://example.com/maritime-dispute" },
-    "case_id": null
+    "topic": "diplomacy",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "South Korea education minister resigns over exam cheating scandal",
+      "my": ""
+    },
+    "details": {
+      "en": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "BBC News",
+      "The Guardian"
+    ]
   },
   {
     "id": "2026-11-22-002",
     "date": "2026-11-22",
-    "topic": "diplomacy",
-    "roles": ["ir"],
-    "title": { "en": "Sample: Regional leaders agree on a trade framework", "my": "" },
-    "details": { "en": "Sample text. Leaders from several countries sign a framework meant to lower tariffs on selected goods.", "my": "" },
-    "why_it_matters": { "en": "Sample text. Trade frameworks shift alliances and change how much influence outside powers hold in a region.", "my": "" },
-    "perspectives": { "en": "Sample text. Exporters welcome the deal; domestic producers worry about cheaper imports.", "my": "" },
-    "reasoning": { "en": "Sample text. Implementation depends on ratification, which could be slow in countries with divided legislatures.", "my": "" },
-    "source": { "name": "BBC News", "url": "https://example.com/trade-framework" },
-    "case_id": null
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "my": ""
+    },
+    "details": {
+      "en": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "BBC News",
+      "The Guardian"
+    ]
   },
   {
     "id": "2026-11-22-003",
     "date": "2026-11-22",
-    "topic": "human-rights",
-    "roles": ["law"],
-    "title": { "en": "Sample: Top court limits use of long pretrial detention", "my": "" },
-    "details": { "en": "Sample text. A national supreme court rules that pretrial detention must be reviewed at fixed intervals.", "my": "" },
-    "why_it_matters": { "en": "Sample text. The ruling affects due process guarantees and could change prison population levels.", "my": "" },
-    "perspectives": { "en": "Sample text. Rights groups call it overdue; prosecutors say it may release dangerous suspects.", "my": "" },
-    "reasoning": { "en": "Sample text. Lower courts will likely need guidance on how to apply the new review schedule.", "my": "" },
-    "source": { "name": "Associated Press", "url": "https://example.com/pretrial-detention" },
-    "case_id": null
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "Three killed and dozens missing after fire at Indonesian factory",
+      "my": ""
+    },
+    "details": {
+      "en": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "BBC News",
+      "The Guardian"
+    ]
+  },
+  {
+    "id": "2026-11-22-004",
+    "date": "2026-11-22",
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "my": ""
+    },
+    "details": {
+      "en": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "BBC News",
+      "The Guardian"
+    ]
+  },
+  {
+    "id": "2026-11-22-005",
+    "date": "2026-11-22",
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "my": ""
+    },
+    "details": {
+      "en": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "BBC News",
+      "NPR"
+    ]
+  },
+  {
+    "id": "2026-11-22-006",
+    "date": "2026-11-22",
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "Trump threatens ban on US firms building AI data centres overseas",
+      "my": ""
+    },
+    "details": {
+      "en": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "BBC News",
+      "The Guardian"
+    ]
+  },
+  {
+    "id": "2026-11-22-007",
+    "date": "2026-11-22",
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "What we know about the latest Russian missile strikes on Ukraine",
+      "my": ""
+    },
+    "details": {
+      "en": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "Al Jazeera",
+      "BBC News"
+    ]
+  },
+  {
+    "id": "2026-11-22-008",
+    "date": "2026-11-22",
+    "topic": "world",
+    "roles": [
+      "ir"
+    ],
+    "title": {
+      "en": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "my": ""
+    },
+    "details": {
+      "en": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen.",
+      "my": ""
+    },
+    "why_it_matters": {
+      "en": "",
+      "my": ""
+    },
+    "perspectives": {
+      "en": "",
+      "my": ""
+    },
+    "reasoning": {
+      "en": "",
+      "my": ""
+    },
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "Al Jazeera",
+      "NPR"
+    ]
   }
 ]
