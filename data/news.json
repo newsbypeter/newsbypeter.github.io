@@ -11,9 +11,8 @@
     "reasoning": { "en": "The resoning of this news start with the questions.", "my": "" },
     "source": { "name": "Reuters", "url": "https://www.reuters.com/article/world/myanmar-shuts-schools-after-biggest-daily-climb-in-coronavirus-cases-idUSKBN25M0E1/" },
     "case_id": null
-  }
-]
-[
+  },
+
   {
     "id": "2026-11-22-001",
     "date": "2026-11-22",
@@ -26,9 +25,7 @@
     "reasoning": { "en": "The resoning of this news start with the questions.", "my": "" },
     "source": { "name": "BBC", "url": "https://www.bbc.com/news/articles/cw8dvg5pgm0eo" },
     "case_id": null
-  }
-]
-[
+  },
   {
     "id": "2026-11-22-001",
     "date": "2026-11-22",
