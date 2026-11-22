@@ -13,6 +13,7 @@ Using ONLY the facts below, return JSON with exactly these keys:
 - why_it_matters: 2 sentences on the significance.
 - perspectives: 2-3 sentences on how different parties may view it.
 - reasoning: 2-3 sentences on logical reasons and possible outcomes, phrased as possibilities.
+- roles: a list using "ir" (International Relations students), "law" (Law students) or both. Include "law" whenever courts, legislation, treaties, rights or legal arguments are involved. If unsure, include both.
 Do not invent facts, names, numbers or quotes. If the facts are thin, say what is unclear.
 
 Headline: {title}
@@ -43,5 +44,14 @@ def analyze_all(items):
         except Exception as err:
             print(f"Analysis skipped for {item['id']}: {err}")
             continue
+        if not isinstance(data, dict):
+            print(f"Analysis skipped for {item['id']}: response was not a JSON object")
+            continue
+        missing = [f for f in FIELDS if not data.get(f)]
+        if missing:
+            print(f"{item['id']}: missing {missing}; model returned {list(data)}")
         for field in FIELDS:
             item[field]["en"] = str(data.get(field, "")).strip()
+        roles = [r for r in data.get("roles") or [] if r in ("ir", "law")]
+        if roles:
+            item["roles"] = roles
