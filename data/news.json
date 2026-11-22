@@ -2,29 +2,68 @@
   {
     "id": "2026-11-22-001",
     "date": "2026-11-22",
+    "topic": "world",
+    "roles": [
+      "ir",
+      "law"
+    ],
+    "title": {
+      "en": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "my": "လစ်ဗျားဆိပ်ကမ်းရှိ ရုရှားသင်္ဘောတစ်စီး ပေါက်ကွဲမှုမှာ ဒရုန်းဖြင့် တိုက်ခိုက်ခံရခြင်းကြောင့် ဖြစ်နိုင်ကြောင်း တာဝန်ရှိသူများက ပြောကြား"
+    },
+    "details": {
+      "en": "Libya's eastern government says it is working with Russia to investigate the incident.",
+      "my": "အဆိုပါဖြစ်စဉ်ကို စုံစမ်းစစ်ဆေးရန် ရုရှားနိုင်ငံနှင့် ပူးပေါင်းဆောင်ရွက်နေကြောင်း လစ်ဗျားအရှေ့ပိုင်း အစိုးရက ပြောကြားသည်။"
+    },
+    "why_it_matters": {
+      "en": "An explosion on a Russian ship at a Libyan port due to a suspected drone attack highlights significant security threats to international vessels in the region. The fact that Libya's eastern government is working directly with Russia to investigate the incident demonstrates active bilateral coordination following the event.",
+      "my": "ဒရုန်းဖြင့် တိုက်ခိုက်ခံရသည်ဟု ယူဆရသည့် လစ်ဗျားဆိပ်ကမ်းရှိ ရုရှားသင်္ဘော ပေါက်ကွဲမှုသည် အဆိုပါဒေသရှိ နိုင်ငံတကာ ရေယာဉ်များအတွက် ကြီးမားသော လုံခြုံရေး ခြိမ်းခြောက်မှုများကို မီးမောင်းထိုးပြနေသည်။ ဖြစ်စဉ်ကို စုံစမ်းစစ်ဆေးရန် လစ်ဗျားအရှေ့ပိုင်း အစိုးရက ရုရှားနှင့် တိုက်ရိုက်ပူးပေါင်းဆောင်ရွက်နေခြင်းသည် ဖြစ်စဉ်အပြီးတွင် တက်ကြွသော နှစ်နိုင်ငံ ပူးပေါင်းဆောင်ရွက်မှုကို ပြသနေသည်။"
+    },
+    "perspectives": {
+      "en": "Libya's eastern government and Russia view the explosion as an urgent matter requiring a joint investigation to determine the facts behind the suspected drone attack. Meanwhile, international media outlets such as Al Jazeera and BBC News view the event as a critical security development in Libyan waters.",
+      "my": "လစ်ဗျားအရှေ့ပိုင်း အစိုးရနှင့် ရုရှားတို့က ယင်းပေါက်ကွဲမှုကို ဒရုန်းဖြင့် တိုက်ခိုက်ခံရမှု နောက်ကွယ်မှ အချက်အလက်များကို ဖော်ထုတ်ရန် ပူးတွဲစုံစမ်းစစ်ဆေးမှု လိုအပ်သည့် အရေးပေါ်ကိစ္စတစ်ရပ်အဖြစ် ရှုမြင်ကြသည်။ ထို့ပြင် အယ်လ်ဂျာဇီးရား (Al Jazeera) နှင့် ဘီဘီစီသတင်း (BBC News) ကဲ့သို့သော နိုင်ငံတကာ မီဒီယာများကမူ ယင်းဖြစ်စဉ်ကို လစ်ဗျားရေပြင်၏ အရေးပါသော လုံခြုံရေးဆိုင်ရာ ဖြစ်ပေါ်တိုးတက်မှုတစ်ရပ်အဖြစ် ရှုမြင်ကြသည်။"
+    },
+    "reasoning": {
+      "en": "The joint investigation by Libya's eastern government and Russia could possibly identify who was responsible for the suspected drone strike. Furthermore, the findings might potentially lead to changes in port security measures or impact future maritime operations in the area.",
+      "my": "လစ်ဗျားအရှေ့ပိုင်း အစိုးရနှင့် ရုရှားတို့၏ ပူးတွဲစုံစမ်းစစ်ဆေးမှုသည် ဒရုန်းဖြင့် တိုက်ခိုက်ခံရမှုအတွက် မည်သူ့တွင် တာဝန်ရှိကြောင်း ဖော်ထုတ်နိုင်ဖွယ် ရှိသည်။ ထို့ပြင် စုံစမ်းစစ်ဆေးတွေ့ရှိချက်များသည် ဆိပ်ကမ်းလုံခြုံရေး အစီအမံများ ပြောင်းလဲသွားစေနိုင်သည် သို့မဟုတ် အဆိုပါဒေသရှိ အနာဂတ် ရေကြောင်း လုပ်ငန်းဆောင်ရွက်မှုများကို သက်ရောက်မှုရှိစေနိုင်သည်။"
+    },
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "Al Jazeera",
+      "BBC News"
+    ]
+  },
+  {
+    "id": "2026-11-22-002",
+    "date": "2026-11-22",
     "topic": "diplomacy",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "South Korea education minister resigns over exam cheating scandal",
-      "my": ""
+      "my": "တောင်ကိုရီးယား ပညာရေးဝန်ကြီး စာမေးပွဲမသမာမှု အရှုပ်တော်ပုံကြောင့် နှုတ်ထွက်"
     },
     "details": {
       "en": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
-      "my": ""
+      "my": "တက္ကသိုလ်ဝင်ခွင့် စာမေးပွဲအတွင်း AI အကူအညီဖြင့် မသမာမှုပြုလုပ်ခြင်းကို တားဆီးရန် နောက်ဆုံးမိနစ်မှ ချမှတ်ခဲ့သော အစီအမံများကြောင့် ရှုပ်ထွေးမှုများ ဖြစ်ပွားခဲ့ကြောင်း ချွဲကျိုဂျင်း က ဝန်ခံခဲ့သည်။"
     },
     "why_it_matters": {
-      "en": "",
-      "my": ""
+      "en": "South Korea's education minister Choi Kyo-jin resigned after last-minute measures to stop AI-assisted cheating during a college entrance exam caused chaos. This event highlights how rapid, uncoordinated policy responses to artificial intelligence can destabilize major public administration processes.",
+      "my": "တက္ကသိုလ်ဝင်ခွင့် စာမေးပွဲအတွင်း AI အကူအညီဖြင့် မသမာမှုပြုလုပ်ခြင်းကို တားဆီးရန် နောက်ဆုံးမိနစ်မှ ချမှတ်ခဲ့သည့် အစီအမံများကြောင့် ရှုပ်ထွေးမှုများ ဖြစ်ပွားခဲ့ပြီးနောက် တောင်ကိုရီးယား ပညာရေးဝန်ကြီး ချွဲကျိုဂျင်း နှုတ်ထွက်သွားခဲ့သည်။ ဤဖြစ်ရပ်သည် ဉာဏ်ရည်တုအပေါ် အလျင်စလိုနှင့် စနစ်တကျ မဟုတ်သော မူဝါဒဆိုင်ရာ တုံ့ပြန်မှုများသည် အဓိက အများပြည်သူဆိုင်ရာ အုပ်ချုပ်ရေး လုပ်ငန်းစဉ်များကို မည်သို့မတည်မငြိမ် ဖြစ်စေနိုင်ကြောင်း မီးမောင်းထိုးပြနေသည်။"
     },
     "perspectives": {
-      "en": "",
-      "my": ""
+      "en": "Choi Kyo-jin admitted that the last-minute anti-cheating measures caused chaos, leading to their resignation over the scandal. The public or exam takers may view the minister's departure as a necessary step to accept responsibility for the administrative failure. Other specific perspectives remain unclear due to the limited facts provided in the reports.",
+      "my": "နောက်ဆုံးမိနစ် မသမာမှုတားဆီးရေး အစီအမံများကြောင့် ရှုပ်ထွေးမှုများ ဖြစ်ပေါ်ခဲ့ကြောင်း ချွဲကျိုဂျင်းက ဝန်ခံခဲ့ပြီး အရှုပ်တော်ပုံကြောင့် နှုတ်ထွက်ခဲ့သည်။ ပြည်သူများ သို့မဟုတ် စာမေးပွဲဖြေဆိုသူများသည် ဝန်ကြီး၏ နှုတ်ထွက်မှုကို အုပ်ချုပ်ရေးပိုင်းဆိုင်ရာ ပျက်ကွက်မှုအတွက် တာဝန်ယူရန် လိုအပ်သော ခြေလှမ်းတစ်ရပ်အဖြစ် ရှုမြင်ကြပေမည်။ သတင်းအစီရင်ခံစာများတွင် ဖော်ပြထားသော အချက်အလက် အကန့်အသတ်များကြောင့် အခြား သီးခြားအမြင်များကိုမူ ရှင်းလင်းစွာ မသိရသေးပါ။"
     },
     "reasoning": {
-      "en": "",
-      "my": ""
+      "en": "It is possible that introducing sudden rules during a major exam creates operational disruption, which can lead to high-level political resignations. A possible outcome is that authorities might implement standardized protocols for AI-assisted cheating far in advance of future college entrance exams. It is also possible that a new minister will be appointed to manage the fallout from the scandal.",
+      "my": "အဓိက စာမေးပွဲတစ်ခုအတွင်း ရုတ်တရက် စည်းမျဉ်းများ ထုတ်ပြန်ခြင်းသည် လုပ်ငန်းဆောင်ရွက်မှု အနှောင့်အယှက်ဖြစ်စေပြီး အထက်တန်း နိုင်ငံရေးဆိုင်ရာ နှုတ်ထွက်မှုများအထိ ဦးတည်သွားနိုင်ခြေ ရှိသည်။ ဖြစ်နိုင်သည့် ရလဒ်တစ်ခုမှာ အာဏာပိုင်များသည် အနာဂတ် တက္ကသိုလ်ဝင်ခွင့် စာမေးပွဲများ မတိုင်မီ AI အကူအညီဖြင့် မသမာမှုပြုလုပ်ခြင်းအတွက် စံသတ်မှတ်ထားသော နည်းလမ်းများကို ကြိုတင်ပြင်ဆင် အကောင်အထည်ဖော်ကောင်း ဖော်နိုင်သည်။ ထို့အပြင် အရှုပ်တော်ပုံ၏ နောက်ဆက်တွဲပြဿနာများကို ကိုင်တွယ်ဖြေရှင်းရန် ဝန်ကြီးသစ်တစ်ဦးကို ခန့်အပ်ဖွယ်လည်း ရှိသည်။"
     },
     "source": {
       "name": "BBC News",
@@ -37,31 +76,32 @@
     ]
   },
   {
-    "id": "2026-11-22-002",
+    "id": "2026-11-22-003",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "my": ""
+      "my": "FBI ၏ အလိုရှိဆုံး ၁၀ ဦးစာရင်းဝင် မက္ကဆီကို မူးယစ်ရာဇာ ပစ်ခတ်မှုအတွင်း ဖမ်းဆီးခံရ"
     },
     "details": {
       "en": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "my": ""
+      "my": "မူးယစ်ဆေးဝါး ကုန်ကူးမှုနှင့် ညှင်းပန်းနှိပ်စက်မှုတို့ဖြင့် စွပ်စွဲခံထားရသူ ဖော့စတို အိုင်ဆိဒရို \"ချာโป အိုင်ဆိဒရို\" မေဇာ ဖလိုရက်စ် ကို အာဏာပိုင်များနှင့် အပြန်အလှန် ပစ်ခတ်မှုဖြစ်ပွားပြီးနောက် ထိန်းသိမ်းလိုက်သည်။"
     },
     "why_it_matters": {
-      "en": "",
-      "my": ""
+      "en": "The arrest of Fausto Isidro \"Chapo Idisro\" Meza Flores, a Mexican drug lord on the FBI's 10 most wanted list, represents a significant development in high-level law enforcement operations against organized crime. His detention after a gunfight directly addresses severe allegations of drug trafficking and torture reported by BBC News and The Guardian.",
+      "my": "FBI ၏ အလိုရှိဆုံး ၁၀ ဦးစာရင်းဝင် မက္ကဆီကို မူးယစ်ရာဇာ ဖော့စတို အိုင်ဆိဒရို \"ချာโป အိုင်ဆိဒရို\" မေဇာ ဖလိုရက်စ် ၏ ဖမ်းဆီးခံရမှုသည် ဂိုဏ်းဖွဲ့ ရာဇဝတ်မှုများကို တိုက်ဖျက်သည့် အဆင့်မြင့် ဥပဒေစိုးမိုးရေး စိစစ်ဆောင်ရွက်မှုများတွင် ထင်ရှားသော တိုးတက်မှုတစ်ခု ဖြစ်သည်။ ပစ်ခတ်မှုဖြစ်ပွားအပြီး ၎င်းကို ထိန်းသိမ်းလိုက်ခြင်းသည် BBC News နှင့် The Guardian တို့ ဖော်ပြခဲ့သည့် မူးယစ်ဆေးဝါး ကုန်ကူးမှုနှင့် ညှင်းပန်းနှိပ်စက်မှုဆိုင်ရာ ပြင်းထန်သော စွပ်စွဲချက်များနှင့် တိုက်ရိုက် သက်ဆိုင်နေသည်။"
     },
     "perspectives": {
-      "en": "",
-      "my": ""
+      "en": "Authorities and law enforcement agencies likely view the capture of a top-ten FBI fugitive as a critical success in combating major criminal networks. Conversely, defense representatives and legal observers may focus on the violent circumstances of the shoot-out and the specific evidence supporting the accusations of torture and drug trafficking.",
+      "my": "အာဏာပိုင်များနှင့် ဥပဒေစိုးမိုးရေး အဖွဲ့အစည်းများသည် FBI ၏ ထိပ်တန်း တရားပြေးတစ်ဦးကို ဖမ်းဆီးရမိခြင်းအား ကြီးမားသော ရာဇဝတ်ကွန်ရက်များကို တိုက်ဖျက်ရာတွင် အရေးပါသော အောင်မြင်မှုတစ်ခုအဖြစ် ရှုမြင်ဖွယ်ရှိသည်။ အခြားတစ်ဖက်တွင်မူ တရားခံရှေ့နေများနှင့် ဥပဒေရေးရာ လေ့လာစောင့်ကြည့်သူများက ပစ်ခတ်မှု၏ အကြမ်းဖက်မှု အခြေအနေများနှင့် ညှင်းပန်းနှိပ်စက်မှု၊ မူးယစ်ဆေးဝါး ကုန်ကူးမှု စွပ်စွဲချက်များကို ထောက်ခံသည့် ခိုင်လုံသော သက်သေအထောက်အထားများအပေါ် အာရုံစိုက်ကြပေလိမ့်မည်။"
     },
     "reasoning": {
-      "en": "",
-      "my": ""
+      "en": "The detention of Meza Flores may lead to formal legal proceedings and prosecution regarding his alleged offenses. It is possible that his arrest could disrupt specific trafficking operations, though the broader consequences for regional security remain unclear from the provided facts. Furthermore, the case may reflect ongoing cooperation between Mexican authorities and the FBI in targeting international fugitives.",
+      "my": "မေဇာ ဖလိုရက်စ် ကို ထိန်းသိမ်းလိုက်ခြင်းသည် ၎င်းအား စွပ်စွဲထားသော ပြစ်မှုများနှင့် ပတ်သက်၍ တရားဝင် ဥပဒေကြောင်းအရ အရေးယူဆောင်ရွက်မှုများနှင့် တရားစွဲဆိုမှုများဆီသို့ ဦးတည်သွားနိုင်သည်။ ၎င်းကို ဖမ်းဆီးလိုက်ခြင်းဖြင့် သီးခြား ကုန်ကူးမှု လုပ်ငန်းစဉ်များကို ဟန့်တားနိုင်ဖွယ်ရှိသော်လည်း ဒေသတွင်း လုံခြုံရေးအတွက် ပိုမိုကျယ်ပြန့်သော နောက်ဆက်တွဲ ရလဒ်များကိုမူ ပေးထားချက်များအရ ရှင်းရှင်းလင်းလင်း မသိရသေးပါ။ ထို့အပြင် ဤအမှုသည် နိုင်ငံတကာ တရားပြေးများကို ပစ်မှတ်ထားရာတွင် မက္ကဆီကို အာဏာပိုင်များနှင့် FBI တို့အကြား ဆက်လက်ပူးပေါင်းဆောင်ရွက်နေမှုကိုလည်း ထိန်းသိမ်းပြသရာ ရောက်နိုင်သည်။"
     },
     "source": {
       "name": "BBC News",
@@ -74,31 +114,32 @@
     ]
   },
   {
-    "id": "2026-11-22-003",
+    "id": "2026-11-22-004",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "Three killed and dozens missing after fire at Indonesian factory",
-      "my": ""
+      "my": "အင်ဒိုနီးရှား စက်ရုံတစ်ခုတွင် မီးလောင်မှုကြောင့် ၃ ဦး သေဆုံးပြီး ဒါဇင်ပေါင်းများစွာ ပျောက်ဆုံးနေ"
     },
     "details": {
       "en": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "my": ""
+      "my": "မုန့်ချိုစက်ရုံတစ်ခုတွင် မီးလောင်မှုဖြစ်ပွားပြီးနောက် အနည်းဆုံး လူ ၃ ဦး သေဆုံးခဲ့ပြီး နောက်ထပ် လူအများအပြား သေဆုံးဖွယ်ရှိသည်ဟု စိုးရိမ်ရသည်။"
     },
     "why_it_matters": {
-      "en": "",
-      "my": ""
+      "en": "At least three people were killed and dozens remain missing after a fire broke out at a confectionary factory in Indonesia. Reported by BBC News and The Guardian, this event marks a severe industrial disaster with a potentially rising casualty count.",
+      "my": "အင်ဒိုနီးရှားနိုင်ငံရှိ မုန့်ချိုစက်ရုံတစ်ခုတွင် မီးလောင်မှုဖြစ်ပွားခဲ့ပြီးနောက် အနည်းဆုံး လူ ၃ ဦး သေဆုံးကာ ဒါဇင်ပေါင်းများစွာ ဆက်လက်ပျောက်ဆုံးနေသည်။ BBC News နှင့် The Guardian တို့၏ သတင်းဖော်ပြချက်အရ ဤဖြစ်စဉ်သည် သေဆုံးထိခိုက်သူအရေအတွက် ပိုမိုမြင့်တက်လာနိုင်သည့် ပြင်းထန်သော စက်မှုလုပ်ငန်းဆိုင်ရာ ဘေးအန္တရာယ်တစ်ခု ဖြစ်သည်။"
     },
     "perspectives": {
-      "en": "",
-      "my": ""
+      "en": "Factory managers and workers may view the incident as a catastrophic operational failure and emergency situation. Observers and news outlets like BBC News focus on the severe human toll of those killed and missing. Because further details are not provided, specific positions from official parties remain unclear.",
+      "my": "စက်ရုံမန်နေဂျာများနှင့် အလုပ်သမားများသည် ဤဖြစ်စဉ်ကို ဆိုးရွားသော လုပ်ငန်းလည်ပတ်မှုဆိုင်ရာ ပျက်ကွက်မှုနှင့် အရေးပေါ်အခြေအနေတစ်ရပ်အဖြစ် ရှုမြင်နိုင်သည်။ စောင့်ကြည့်လေ့လာသူများနှင့် BBC News ကဲ့သို့သော သတင်းဌာနများသည် သေဆုံးနှင့် ပျောက်ဆုံးသူများ၏ ကြီးမားသော လူသားဆိုင်ရာ ထိခိုက်ဆုံးရှုံးမှုအပေါ် အဓိကထားကြသည်။ အသေးစိတ်အချက်အလက်များကို ပိုမိုပေးအပ်ထားခြင်း မရှိသောကြောင့် သက်ဆိုင်ရာ တာဝန်ရှိသူများ၏ သီးခြားရပ်တည်ချက်များကို အတိအကျ မသိရှိရသေးပေ။"
     },
     "reasoning": {
-      "en": "",
-      "my": ""
+      "en": "The presence of dozens of missing individuals means the final fatality count could possibly increase. A potential investigation into the cause of the fire might lead to questions surrounding workplace standards or oversight. Due to the limited facts available, the exact causes and long-term outcomes of the fire remain unclear.",
+      "my": "ပျောက်ဆုံးနေသူ ဒါဇင်ပေါင်းများစွာ ရှိနေခြင်းကြောင့် နောက်ဆုံး သေဆုံးသူအရေအတွက် ပိုမိုမြင့်တက်လာနိုင်သည်။ မီးလောင်ရသည့် အကြောင်းရင်းကို စုံစမ်းစစ်ဆေးနိုင်ခြေသည် လုပ်ငန်းခွင် စံချိန်စံညွှန်းများ သို့မဟုတ် ကြီးကြပ်ကွပ်ကဲမှုဆိုင်ရာ မေးခွန်းများ ထွက်ပေါ်လာစေနိုင်သည်။ ရရှိနိုင်သည့် အချက်အလက် နည်းပါးမှုကြောင့် မီးလောင်မှု၏ အတိအကျ အကြောင်းရင်းများနှင့် ရေရှည်ရလဒ်များကို ဆက်လက် မသိရှိရသေးပေ။"
     },
     "source": {
       "name": "BBC News",
@@ -111,11 +152,12 @@
     ]
   },
   {
-    "id": "2026-11-22-004",
+    "id": "2026-11-22-005",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -126,15 +168,15 @@
       "my": ""
     },
     "why_it_matters": {
-      "en": "",
+      "en": "A tech stock sell-off marked by sliding Anthropic shares has dragged down major US financial markets. This movement is significant as it has pushed both the S&P 500 and the Dow Jones Industrial Average into correction territory.",
       "my": ""
     },
     "perspectives": {
-      "en": "",
+      "en": "Market observers and media outlets like BBC News and The Guardian view the slide in Anthropic shares as a key factor pulling down US markets. Different market actors may see the pressures on the S&P 500 and Dow Jones Industrial Average as evidence of broader financial instability. Specific views from regulators or company executives are unclear due to limited facts in the report.",
       "my": ""
     },
     "reasoning": {
-      "en": "",
+      "en": "Ongoing market pressures could possibly lead to further declines in the S&P 500 and the Dow Jones Industrial Average. Conversely, a reversal in the tech sell-off might potentially allow Anthropic shares and broader US indices to recover from correction territory. The specific root causes of these market pressures remain unclear from the available text.",
       "my": ""
     },
     "source": {
@@ -148,31 +190,32 @@
     ]
   },
   {
-    "id": "2026-11-22-005",
+    "id": "2026-11-22-006",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "my": ""
+      "my": "AI က သင်္ချာပုစ္ဆာများကို ဖြေရှင်းပေးသည့် နှစ်တစ်နှစ်တွင် Anthropic မှ ဝန်ထမ်းတစ်ဦးက အကြီးမားဆုံး ပုစ္ဆာကို အဖြေထုတ်နိုင်ခဲ့ပြီဖြစ်ကြောင်း ပြောကြား"
     },
     "details": {
       "en": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "my": ""
+      "my": "Anthropic မှ သင်္ချာပညာရှင်တစ်ဦးက လူသိများသော Riemann hypothesis ကို သက်သေပြရန် AI ကို အသုံးပြုခဲ့သည်ဟု ပြောကြားခဲ့သော်လည်း အတည်ပြုရန် အချိန်အနည်းငယ် ယူရမည်ဖြစ်သည်။"
     },
     "why_it_matters": {
-      "en": "",
-      "my": ""
+      "en": "A mathematician at Anthropic claims to have used AI to potentially prove the Riemann hypothesis, highlighting the expanding capabilities of AI in solving complex mathematical problems. However, the full impact of this event remains pending because the verification process will take some time.",
+      "my": "Anthropic မှ သင်္ချာပညာရှင်တစ်ဦးသည် Riemann hypothesis ကို သက်သေပြနိုင်ရန် AI ကို အသုံးပြုခဲ့သည်ဟု အဆိုပြုထားရာ၊ ယင်းက ရှုပ်ထွေးသော သင်္ချာပုစ္ဆာများကို ဖြေရှင်းရာတွင် AI ၏ တိုးတက်လာသော စွမ်းဆောင်ရည်များကို ပေါ်လွင်စေသည်။ သို့သော် အတည်ပြုခြင်းလုပ်ငန်းစဉ်သည် အချိန်ယူရမည်ဖြစ်သဖြင့် ဤဖြစ်ရပ်၏ အပြည့်အဝ သက်ရောက်မှုကို စောင့်ကြည့်ရဦးမည်ဖြစ်သည်။"
     },
     "perspectives": {
-      "en": "",
-      "my": ""
+      "en": "The Anthropic researcher views this as a potential breakthrough in applying AI to solve major mathematical challenges. News outlets like BBC News and NPR present the claim with caution, emphasizing that verification is still required. Broader legal or international perspectives are currently unclear due to the limited details available in the facts.",
+      "my": "Anthropic သုတေသီက ယင်းကို ကြီးမားသော သင်္ချာဆိုင်ရာ စိန်ခေါ်မှုများကို ဖြေရှင်းရန် AI ကို အသုံးပြုခြင်း၏ ဖြစ်နိုင်ဖွယ်ရှိသော စာမျက်နှာသစ်တစ်ခုအဖြစ် ရှုမြင်သည်။ BBC News နှင့် NPR ကဲ့သို့သော သတင်းဌာနများက အတည်ပြုရန် လိုအပ်နေသေးကြောင်း အလေးပေး၍ ယင်းပြောဆိုချက်ကို သတိထားဖော်ပြကြသည်။ ရရှိနိုင်သော အချက်အလက် နည်းပါးမှုကြောင့် ပိုမိုကျယ်ပြန့်သော ဥပဒေဆိုင်ရာ သို့မဟုတ် နိုင်ငံတကာ ရှုထောင့်များကိုမူ လက်ရှိတွင် ရှင်းလင်းစွာ မသိရသေးပေ။"
     },
     "reasoning": {
-      "en": "",
-      "my": ""
+      "en": "If the AI-generated proof is successfully verified, it may demonstrate that artificial intelligence can resolve long-standing mathematical problems. Alternatively, the review process could reveal errors that leave the hypothesis unsolved. It is also possible that such achievements could encourage further technological development, though the exact timeline and outcomes remain uncertain.",
+      "my": "AI ဖြင့် စွမ်းဆောင်ထားသော သက်သေပြချက်ကို အောင်မြင်စွာ အတည်ပြုနိုင်ပါက ယင်းသည် ဉာဏ်ရည်တုက ကာလရှည်ကြာ မဖြေရှင်းနိုင်ခဲ့သော သင်္ချာပုစ္ဆာများကို ဖြေရှင်းနိုင်ကြောင်း ပြသရာရောက်နိုင်သည်။ သို့မဟုတ်ပါကလည်း ပြန်လည်ဆန်းစစ်သည့် လုပ်ငန်းစဉ်၌ အမှားအယွင်းများ တွေ့ရှိပြီး အဆိုပါ အယူအဆမှာ မဖြေရှင်းနိုင်ဘဲ ကျန်ရှိနေနိုင်သည်။ ထို့ပြင် ထိုကဲ့သို့သော အောင်မြင်မှုများသည် နည်းပညာ ပိုမိုတိုးတက်လာစေရန် တွန်းအားပေးနိုင်သော်လည်း တိကျသော အချိန်ဇယားနှင့် ရလဒ်များမှာမူ မရေရာသေးပေ။"
     },
     "source": {
       "name": "BBC News",
@@ -185,31 +228,32 @@
     ]
   },
   {
-    "id": "2026-11-22-006",
+    "id": "2026-11-22-007",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "Trump threatens ban on US firms building AI data centres overseas",
-      "my": ""
+      "my": "ထရမ့်က အမေရိကန်ကုမ္ပဏီများ ပြည်ပတွင် AI ဒေတာစင်တာများ တည်ဆောက်ခြင်းကို ပိတ်ပင်မည်ဟု ခြိမ်းခြောက်"
     },
     "details": {
       "en": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
-      "my": ""
+      "my": "အမေရိကန်သမ္မတသည် အဆိုပါ ဖြစ်နိုင်ခြေရှိသော မူဝါဒနှင့်ပတ်သက်၍ အသေးစိတ် အချက်အလက် နည်းပါးစွာသာ ပြောကြားခဲ့ပြီး၊ ၎င်း၏ အဖွဲ့ဝင်များသည်လည်း ဤအကြောင်းကို ပထမဆုံးအကြိမ် ကြားသိရခြင်းဖြစ်သည်ဟု ဆိုသည်။"
     },
     "why_it_matters": {
-      "en": "",
-      "my": ""
+      "en": "The US president has threatened a ban on domestic firms building AI data centres overseas, which highlights potential shifts in international technology operations. Because the president provided little detail and mentioned his team was hearing about the policy for the first time, the actual significance and strategic impact remain unclear.",
+      "my": "အမေရိကန်သမ္မတသည် ပြည်တွင်းကုမ္ပဏီများ ပြည်ပတွင် AI ဒေတာစင်တာများ တည်ဆောက်ခြင်းကို ပိတ်ပင်မည်ဟု ခြိမ်းခြောက်ခဲ့ပြီး၊ ယင်းက နိုင်ငံတကာ နည်းပညာ လုပ်ငန်းစဉ်များတွင် ဖြစ်နိုင်ခြေရှိသော အပြောင်းအလဲများကို မီးမောင်းထိုးပြနေသည်။ သမ္မတသည် အသေးစိတ် အချက်အလက် နည်းပါးစွာသာ ပြောကြားခဲ့ပြီး ၎င်း၏ အဖွဲ့သည်လည်း ဤမူဝါဒအကြောင်း ပထမဆုံးအကြိမ် ကြားသိရခြင်းဖြစ်သည်ဟု ပြောဆိုခဲ့သောကြောင့် အမှန်တကယ် အရေးပါမှုနှင့် ဗျူဟာမြောက် သက်ရောက်မှုမှာ မရေမရာ ဖြစ်နေဆဲဖြစ်သည်။"
     },
     "perspectives": {
-      "en": "",
-      "my": ""
+      "en": "The US president appears to view the proposed ban as a viable policy option for American companies operating abroad. Members of the president's team may view the proposal with surprise, as they were reportedly learning about it for the first time during the announcement. US firms facing a potential restriction may view the statement with uncertainty until further details are released.",
+      "my": "အမေရိကန်သမ္မတသည် အဆိုပြုထားသော ပိတ်ပင်မှုကို ပြည်ပတွင် လုပ်ကိုင်နေသည့် အမေရိကန်ကုမ္ပဏီများအတွက် ဖြစ်နိုင်ခြေရှိသော မူဝါဒရွေးချယ်မှုတစ်ခုအဖြစ် ရှုမြင်ပုံရသည်။ သမ္မတ၏ အဖွဲ့ဝင်များသည် ကြေညာချက် ထုတ်ပြန်ချိန်အတောအတွင်းမှ ဤအကြောင်းကို ပထမဆုံးအကြိမ် သိရှိခဲ့ရခြင်းဖြစ်၍ အဆိုပြုချက်အပေါ် အံ့အားသင့်ဖွယ် ဖြစ်နိုင်ပါသည်။ ဖြစ်နိုင်ခြေရှိသော ကန့်သတ်ချက်များနှင့် ရင်ဆိုင်နေရသည့် အမေရိကန်ကုမ္ပဏီများသည် နောက်ထပ် အသေးစိတ် အချက်အလက်များ မထုတ်ပြန်မီအထိ အဆိုပါ ပြောကြားချက်ကို မရေမရာ ဖြစ်မှုဖြင့် ရှုမြင်နိုင်ပါသည်။"
     },
     "reasoning": {
-      "en": "",
-      "my": ""
+      "en": "One possible outcome of a ban is that US firms could be restricted from expanding their AI infrastructure internationally. Alternatively, because the policy was announced with minimal details, it is possible the proposal might not materialize into actionable legislation or policy. It remains unclear what specific legal mechanisms or framework would be used to enforce such a ban.",
+      "my": "ပိတ်ပင်မှု၏ ဖြစ်နိုင်ခြေရှိသော ရလဒ်တစ်ခုမှာ အမေရိကန်ကုမ္ပဏီများ အနေဖြင့် ၎င်းတို့၏ AI အခြေခံအဆောက်အအုံများကို နိုင်ငံတကာတွင် တိုးချဲ့ခွင့် ကန့်သတ်ခံရနိုင်ခြင်း ဖြစ်သည်။ သို့မဟုတ်ဘဲ မူဝါဒကို အသေးစိတ် အချက်အလက် နည်းပါးစွာဖြင့် ကြေညာခဲ့ခြင်းကြောင့် အဆိုပြုချက်သည် လက်တွေ့ကျသော ဥပဒေ သို့မဟုတ် မူဝါဒအဖြစ် ပေါ်ပေါက်လာမည် မဟုတ်ပေ။ ထိုသို့သော ပိတ်ပင်မှုကို အကောင်အထည်ဖော်ရန် မည်သည့် သီးခြား ဥပဒေကြောင်းဆိုင်ရာ လုပ်ထုံးလုပ်နည်း သို့မဟုတ် မူဘောင်ကို အသုံးပြုမည်ဆိုသည်မှာ မရေမရာ ဖြစ်နေဆဲဖြစ်သည်။"
     },
     "source": {
       "name": "BBC News",
@@ -222,31 +266,32 @@
     ]
   },
   {
-    "id": "2026-11-22-007",
+    "id": "2026-11-22-008",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "What we know about the latest Russian missile strikes on Ukraine",
-      "my": ""
+      "my": "ယူကရိန်းအပေါ် ရုရှား၏ နောက်ဆုံး ဒုံးကျည်ဖြင့် တိုက်ခိုက်မှုများနှင့် ပတ်သက်၍ ကျွန်ုပ်တို့ သိရှိရသမျှ"
     },
     "details": {
       "en": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-      "my": ""
+      "my": "ရုရှားသည် မြို့တော် ကီးယက်ဗ်ရှိ တံတားများနှင့် ရထားဘူတာများကို အဓိက တိုက်ခိုက်မှုကြီးတစ်ခုအဖြစ် ပစ်ခတ်တိုက်ခိုက်ခဲ့သည်။"
     },
     "why_it_matters": {
-      "en": "",
-      "my": ""
+      "en": "Russia executed a major missile attack on Ukraine, specifically striking bridges and railway stations in the capital city of Kyiv. The broader strategic and humanitarian significance remains unclear because the provided report contains minimal factual detail.",
+      "my": "ရုရှားသည် ယူကရိန်းအပေါ် အဓိက ဒုံးကျည် တိုက်ခိုက်မှုတစ်ခုကို ပြုလုပ်ခဲ့ပြီး အထူးသဖြင့် မြို့တော် ကီးယက်ဗ်ရှိ တံတားများနှင့် ရထားဘူတာများကို ပစ်ခတ်ခဲ့သည်။ ပေးထားသော သတင်းအစီရင်ခံစာတွင် အချက်အလက်ဆိုင်ရာ အသေးစိတ်များ အနည်းငယ်သာ ပါဝင်သောကြောင့် ပိုမိုကျယ်ပြန့်သည့် စစ်ရေးမဟာဗျူဟာနှင့် လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာ အရေးပါမှုမှာ မရှင်းလင်းသေးပါ။"
     },
     "perspectives": {
-      "en": "",
-      "my": ""
+      "en": "Russia may view these missile strikes as a major attack targeting key infrastructure in Kyiv. Ukraine and its international supporters likely view the targeting of bridges and railway stations as an aggressive assault on the capital's transit system. Reporting by Al Jazeera and BBC News indicates that media outlets view the incident as a major news development, though specific statements from the parties are not detailed.",
+      "my": "ရုရှားအနေဖြင့် ဤဒုံးကျည်ဖြင့် တိုက်ခိုက်မှုများကို ကီးယက်ဗ်ရှိ အဓိက အခြေခံအဆောက်အအုံများကို ပစ်မှတ်ထားသည့် အဓိက တိုက်ခိုက်မှုတစ်ခုအဖြစ် ရှုမြင်နိုင်သည်။ ယူကရိန်းနှင့် ယင်း၏ နိုင်ငံတကာ ထောက်ခံသူများကမူ တံတားများနှင့် ရထားဘူတာများကို ပစ်မှတ်ထားခြင်းအား မြို့တော်၏ သယ်ယူပို့ဆောင်ရေး စနစ်အပေါ် ရန်လိုသော တိုက်ခိုက်မှုအဖြစ် ရှုမြင်ဖွယ်ရှိသည်။ အယ်လ်ဂျာဇီးရား (Al Jazeera) နှင့် ဘီဘီစီ သတင်းဌာန (BBC News) တို့၏ သတင်းထုတ်ပြန်ချက်များအရ မီဒီယာများက ဤဖြစ်စဉ်ကို သတင်းထူးတစ်ခုအဖြစ် ရှုမြင်ကြသော်လည်း ပါဝင်သူများထံမှ သီးခြားထုတ်ပြန်ချက်များကို အသေးစိတ် ဖော်ပြထားခြင်း မရှိပါ။"
     },
     "reasoning": {
-      "en": "",
-      "my": ""
+      "en": "Logically, Russia may have targeted bridges and railway stations to disrupt transportation and movement within the capital. A possible outcome is damage to transit infrastructure in Kyiv, though the exact extent of destruction is unspecified. Other potential strategic or legal consequences remain unclear due to the limited facts provided.",
+      "my": "ယုတ္တိနည်းကျ ပြောရလျှင် ရုရှားသည် မြို့တော်အတွင်း သယ်ယူပို့ဆောင်ရေးနှင့် သွားလာလှုပ်ရှားမှုများကို နှောင့်ယှက်ရန် တံတားများနှင့် ရထားဘူတာများကို ပစ်မှတ်ထားခဲ့ခြင်း ဖြစ်နိုင်သည်။ ဖြစ်နိုင်ခြေရှိသော ရလဒ်တစ်ခုမှာ ကီးယက်ဗ်ရှိ သယ်ယူပို့ဆောင်ရေး အခြေခံအဆောက်အအုံများ ပျက်စီးသွားခြင်းဖြစ်သော်လည်း ပျက်စီးဆုံးရှုံးမှု အတိအကျကို ဖော်ပြထားခြင်း မရှိပါ။ ပေးထားသည့် အချက်အလက် နည်းပါးမှုကြောင့် အခြားသော စစ်ရေးမဟာဗျူဟာ သို့မဟုတ် ဥပဒေဆိုင်ရာ နောက်ဆက်တွဲ အကျိုးဆက်များကို မရှင်းလင်းသေးပါ။"
     },
     "source": {
       "name": "BBC News",
@@ -259,11 +304,12 @@
     ]
   },
   {
-    "id": "2026-11-22-008",
+    "id": "2026-11-22-009",
     "date": "2026-11-22",
     "topic": "world",
     "roles": [
-      "ir"
+      "ir",
+      "law"
     ],
     "title": {
       "en": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
@@ -274,15 +320,15 @@
       "my": ""
     },
     "why_it_matters": {
-      "en": "",
+      "en": "The capture of alleged Mexican cartel leader El Chapo Isidro is significant as it highlights major high-stakes security operations in Sinaloa state. The event underscores the intense level of violence surrounding efforts to detain suspected cartel figures.",
       "my": ""
     },
     "perspectives": {
-      "en": "",
+      "en": "Security forces likely view the arrest as a key operational outcome against an alleged cartel leader. Conversely, local residents or critics may view the deadly heavy battles between gunmen and security forces as evidence of severe security risks in the region. Because further details are omitted, it is unclear how defense lawyers or legal scholars view the lawfulness or specifics of the arrest.",
       "my": ""
     },
     "reasoning": {
-      "en": "",
+      "en": "Armed resistance during the operation indicates that future attempts to arrest cartel leaders in the region could potentially result in similar deadly battles. Additionally, the removal of an alleged leadership figure might lead to shifts in local power dynamics, though specific consequences remain unclear.",
       "my": ""
     },
     "source": {
