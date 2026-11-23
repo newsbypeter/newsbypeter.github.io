@@ -4,15 +4,21 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>News by Peter</title>
+  <meta name="color-scheme" content="light dark">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@400;600&family=Noto+Sans+Myanmar:wght@400;600&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600&family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Noto+Sans+Myanmar:wght@400;600&family=Noto+Serif+Myanmar:wght@400;600&display=swap">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header class="site-header">
-    <h1>News by Peter</h1>
-  </header>
+<header class="masthead">
+  <h1>News by Peter</h1>
+  <p>What happened, why it matters, and how to reason about it.</p>
+</header>
+<div class="layout">
+  <aside class="rail" id="selector"><!-- your role/topic buttons: give each class="chip" --></aside>
+  <main class="feed" id="feed"></main>
+</div>
 
   <nav class="filters" aria-label="Feed filters">
     <label><span data-i18n="role">Role</span>
