@@ -1,52 +1,45 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>News by Peter</title>
-  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="What happened, why it matters, and how to reason about it.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;600&family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Noto+Sans+Myanmar:wght@400;600&family=Noto+Serif+Myanmar:wght@400;600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Noto+Sans+Myanmar:wght@400;600&family=Noto+Serif+Myanmar:wght@400;600&display=swap">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-<header class="masthead">
-  <h1>News by Peter</h1>
-  <p>What happened, why it matters, and how to reason about it.</p>
-</header>
-<div class="layout">
-  <aside class="rail" id="selector"><!-- your role/topic buttons: give each class="chip" --></aside>
-  <main class="feed" id="feed"></main>
-</div>
+  <div class="progress" aria-hidden="true"></div>
 
-  <nav class="filters" aria-label="Feed filters">
-    <label><span data-i18n="role">Role</span>
-      <select id="role">
-        <option value="ir" data-i18n="roleIr">International Relations</option>
-        <option value="law" data-i18n="roleLaw">Law</option>
-      </select>
-    </label>
-    <label><span data-i18n="topic">Topic</span>
-      <select id="topic">
-        <option value="all" data-i18n="allTopics">All topics</option>
-      </select>
-    </label>
-    <label><span data-i18n="language">Language</span>
-      <select id="lang">
-        <option value="en">English</option>
-        <option value="my">မြန်မာ</option>
-      </select>
-    </label>
-  </nav>
+  <header class="masthead">
+    <div class="masthead__in">
+      <a class="brand" href="./" aria-label="News by Peter, home">
+        <svg class="logo" viewBox="0 0 48 48" aria-hidden="true">
+          <circle cx="24" cy="24" r="21" fill="#FFC93C" stroke="#14123A" stroke-width="3"/>
+          <ellipse class="m" cx="24" cy="24" rx="10" ry="21" fill="none" stroke="#14123A" stroke-width="3"/>
+          <path d="M4 24h40" stroke="#14123A" stroke-width="3"/>
+          <circle cx="35" cy="13" r="5" fill="#FF7A8A" stroke="#14123A" stroke-width="2.5"/>
+        </svg>
+        <span>News by Peter</span>
+      </a>
+      <p class="tagline">What happened, why it matters, and how to reason about it.</p>
+      <p class="today"><time id="today"></time><span id="count"></span></p>
+    </div>
+  </header>
 
-  <main id="feed" aria-live="polite">
-    <p class="status" data-i18n="loading">Loading news…</p>
-  </main>
+  <div class="layout">
+    <aside class="rail" aria-label="Filters">
+      <label>Read as <select id="role"></select></label>
+      <label>Topic <select id="topic"></select></label>
+    </aside>
+    <main class="feed" id="feed" aria-live="polite">
+      <p class="status">Loading stories…</p>
+    </main>
+  </div>
 
-  <footer class="site-footer" data-i18n="footer">
-    Analysis sections are AI-generated from each headline and summary. Check the source before relying on them.
-  </footer>
+  <footer class="foot">Every story links to its source. Built in the open.</footer>
 
   <script src="js/app.js" defer></script>
 </body>
