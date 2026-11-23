@@ -1,9 +1,17 @@
 const feed = document.getElementById("feed");
-const LANG = "en"; // becomes "en" or "my" in a later task
-
 const roleSelect = document.getElementById("role");
 const topicSelect = document.getElementById("topic");
+const LANG = "en"; // becomes "en" or "my" in a later task
 let allItems = [];
+
+document.documentElement.lang = LANG;
+
+const esc = (s) =>
+  String(s ?? "").replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  }[c]));
+
+const t = (field) => field?.[LANG] || field?.en || "";
 
 function loadPrefs() {
   try {
@@ -20,46 +28,43 @@ function savePrefs() {
   }));
 }
 
-function esc(text) {
-  const div = document.createElement("div");
-  div.textContent = text ?? "";
-  return div.innerHTML;
-}
-
 function formatDate(iso) {
   return new Date(iso + "T00:00:00").toLocaleDateString("en-GB", {
     day: "numeric", month: "short", year: "numeric",
   });
 }
 
-function section(label, field) {
-  const text = field?.[LANG];
-  return text ? `<h3>${label}</h3><p>${esc(text)}</p>` : "";
+function depth(label, field) {
+  const text = t(field);
+  return text
+    ? `<details class="depth"><summary>${label}</summary><div>${esc(text)}</div></details>`
+    : "";
 }
 
 function renderStory(item) {
-  const why = item.why_it_matters?.[LANG];
+  const why = t(item.why_it_matters);
   return `
     <article class="story">
-      <div class="meta">
+      <p class="story__meta">
         <time datetime="${esc(item.date)}">${formatDate(item.date)}</time>
-        <span class="topic">${esc(item.topic.replace(/-/g, " "))}</span>
-      </div>
-      <h2>${esc(item.title[LANG])}</h2>
-      ${section("News details", item.details)}
-      ${why ? `<div class="why"><h3>Why it matters</h3><p>${esc(why)}</p></div>` : ""}
-      ${section("Perspectives", item.perspectives)}
-      ${section("Logical reasons and possibilities", item.reasoning)}
-      <a class="source" href="${esc(item.source.url)}" target="_blank" rel="noopener">
-        Source: ${esc(item.source.name)}
-      </a>
+        <span>${esc(item.topic.replace(/-/g, " "))}</span>
+      </p>
+      <h2 class="story__title">${esc(t(item.title))}</h2>
+      <p class="story__lede">${esc(t(item.details))}</p>
+      ${why ? `<aside class="note"><strong>Why it matters</strong><p>${esc(why)}</p></aside>` : ""}
+      ${depth("Perspectives", item.perspectives)}
+      ${depth("Logical reasons and possibilities", item.reasoning)}
+      <footer class="story__foot">
+        <a href="${esc(item.source.url)}" target="_blank" rel="noopener">Source: ${esc(item.source.name)}</a>
+      </footer>
     </article>`;
 }
+
 function fillTopics() {
   const topics = [...new Set(allItems.map((i) => i.topic))];
   topicSelect.innerHTML =
     `<option value="all">All topics</option>` +
-    topics.map((t) => `<option value="${esc(t)}">${esc(t.replace(/-/g, " "))}</option>`).join("");
+    topics.map((x) => `<option value="${esc(x)}">${esc(x.replace(/-/g, " "))}</option>`).join("");
 }
 
 function render() {
@@ -72,27 +77,29 @@ function render() {
     ? shown.map(renderStory).join("")
     : `<p class="status">No stories match these filters.</p>`;
 }
+
 async function loadNews() {
   try {
     const res = await fetch("data/news.json");
     if (!res.ok) throw new Error("file not found (" + res.status + ")");
-    const items = await res.json();
-    allItems = items;
-fillTopics();
-const prefs = loadPrefs();
-if (prefs.role) roleSelect.value = prefs.role;
-if (prefs.topic && [...topicSelect.options].some((o) => o.value === prefs.topic)) {
-  topicSelect.value = prefs.topic;
-}
-render();
+    allItems = await res.json();
+    fillTopics();
+    const prefs = loadPrefs();
+    if (prefs.role) roleSelect.value = prefs.role;
+    if (prefs.topic && [...topicSelect.options].some((o) => o.value === prefs.topic)) {
+      topicSelect.value = prefs.topic;
+    }
+    render();
   } catch (err) {
     feed.innerHTML = `<p class="status">Could not load news: ${esc(err.message)}</p>`;
   }
 }
+
 [roleSelect, topicSelect].forEach((el) =>
   el.addEventListener("change", () => {
     savePrefs();
     render();
   })
 );
+
 loadNews();
