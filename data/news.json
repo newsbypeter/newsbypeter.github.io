@@ -1,72 +1,73 @@
 [
   {
-    "id": "2026-11-26-001",
-    "date": "2026-11-26",
+    "id": "2026-11-27-001",
+    "date": "2026-11-27",
     "topic": "international-law",
     "roles": [
+      "ir",
       "law"
     ],
     "title": {
-      "en": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "my": "၂၀၁၈ ခုနှစ်က မင်းသမီးတစ်ဦးအား မုဒိမ်းကျင့်ခဲ့သည်ဟု စွပ်စွဲချက်အတွက် ဂျီရတ် ဒေပါဒီယူး တရားရင်ဆိုင်ရမည်ဟု တရားရုံး ဆုံးဖြတ်"
+      "en": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "my": "ကနေဒါ တရားလွှတ်တော်ချုပ်က ကွီဘက်ပြည်နယ်၏ နိုင်ငံ့ဝန်ထမ်းများ ဘာသာရေးအမှတ်သင်္ကေတ ဝတ်ဆင်မှု ပိတ်ပင်ချက်ကို အများအားဖြင့် အတည်ပြု"
     },
     "details": {
-      "en": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "my": "ပါရီ အယူခံတရားရုံးက ရှားလော့ အာနိုးဒ်အား မုဒိမ်းကျင့်ခဲ့သည်ဟူသော စွပ်စွဲချက်ဖြင့် ဒေပါဒီယူး တရားရင်ဆိုင်ရမည်ဟု ဆုံးဖြတ်ခဲ့သည်။"
+      "en": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "my": "အဆိုပါဥပဒေသည် မိမိတို့၏ အခြေခံအခွင့်အရေးများကို ချိုးဖောက်သည်ဟု လျှောက်လဲခဲ့ကြသည့် မူစလင်၊ ဆစ်ခ် နှင့် ကက်သလစ် အမျိုးသမီးဆရာမများ အပါအဝင် အဖွဲ့အစည်းပေါင်းစုံမှ တရားစွဲဆို စိန်ခေါ်မှုများနှင့် ရင်ဆိုင်ခဲ့ရသည်။"
     },
     "why_it_matters": {
-      "en": "A Paris appeals court has ruled that actor Gérard Depardieu must stand trial for the alleged 2018 rape of Charlotte Arnould. This decision marks a significant legal development in addressing high-profile sexual assault allegations within the judicial system.",
-      "my": "မင်းသား ဂျီရတ် ဒေပါဒီယူးသည် ၂၀၁၈ ခုနှစ်က ရှားလော့ အာနိုးဒ်အား မုဒိမ်းကျင့်ခဲ့သည်ဆိုသည့် စွပ်စွဲချက်အတွက် တရားရင်ဆိုင်ရမည်ဟု ပါရီ အယူခံတရားရုံးက ဆုံးဖြတ်ခဲ့သည်။ ဤဆုံးဖြတ်ချက်သည် တရားစီရင်ရေးစနစ်အတွင်း ထင်ရှားကျော်ကြားသူများ၏ လိင်ပိုင်းဆိုင်ရာ စော်ကားစွပ်စွဲချက်များကို ကိုင်တွယ်ဖြေရှင်းရာတွင် ထင်ရှားသော ဥပဒေရေးရာ တိုးတက်မှုတစ်ခု ဖြစ်သည်။"
+      "en": "Canada's top court has largely upheld a Quebec ban on religious symbols for public servants. The decision addresses legal challenges brought by female Muslim, Sikh, and Catholic teachers who argued the law violated their fundamental rights.",
+      "my": "ကနေဒါ တရားလွှတ်တော်ချုပ်သည် ကွီဘက်ပြည်နယ်၏ နိုင်ငံ့ဝန်ထမ်းများ ဘာသာရေးအမှတ်သင်္ကေတ ဝတ်ဆင်မှု ပိတ်ပင်ချက်ကို အများအားဖြင့် အတည်ပြုခဲ့သည်။ အဆိုပါ ဥပဒေသည် မိမိတို့၏ အခြေခံအခွင့်အရေးများကို ချိုးဖောက်သည်ဟု လျှောက်လဲခဲ့ကြသည့် မူစလင်၊ ဆစ်ခ် နှင့် ကက်သလစ် အမျိုးသမီးဆရာမများ၏ တရားစွဲဆိုမှုကို တရားရုံး၏ ဆုံးဖြတ်ချက်က တုံ့ပြန်ဖြေရှင်းလိုက်ခြင်းဖြစ်သည်။"
     },
     "perspectives": {
-      "en": "Charlotte Arnould and prosecutors likely view the court ruling as an essential step toward achieving legal justice. Conversely, Gérard Depardieu and his legal team may maintain his innocence as the case moves forward to trial. It is unclear how French public opinion will assess the proceedings as more details are presented.",
-      "my": "ရှားလော့ အာနိုးဒ်နှင့် တရားလိုရှေ့နေများသည် တရားရုံး၏ ဆုံးဖြတ်ချက်ကို တရားဥပဒေစိုးမိုးရေးနှင့် တရားမျှတမှု ရရှိရေးအတွက် အရေးပါသော ခြေလှမ်းတစ်ခုအဖြစ် ရှုမြင်ကြဖွယ်ရှိသည်။ အခြားတစ်ဖက်တွင် ဂျီရတ် ဒေပါဒီယူးနှင့် သူ၏ ဥပဒေရေးရာအဖွဲ့သည် အမှုစစ်ဆေးရာတွင် ၎င်း၌ အပြစ်မရှိကြောင်း ဆက်လက်ရပ်တည်ဖွယ်ရှိသည်။ အသေးစိတ်အချက်အလက်များ ထွက်ပေါ်လာသည်နှင့်အမျှ ပြင်သစ်အများပြည်သူ၏ သဘောထား အပြောင်းအလဲ မည်သို့ရှိမည်ကိုမူ မရှင်းလင်းသေးပေ။"
+      "en": "The teachers challenging the ban view the law as an infringement on their fundamental human rights. Proponents of the legislation and the court view the ruling as a valid legal upholding of public sector employment rules.",
+      "my": "ပိတ်ပင်ချက်ကို စိန်ခေါ်သည့် ဆရာမများက အဆိုပါဥပဒေကို မိမိတို့၏ အခြေခံလူ့အခွင့်အရေးများကို ချိုးဖောက်မှုအဖြစ် ရှုမြင်ကြသည်။ ဥပဒေကို ထောက်ခံသူများနှင့် တရားရုံးကမူ ယခုဆုံးဖြတ်ချက်သည် အများပြည်သူဆိုင်ရာ ကဏ္ဍ အလုပ်ခန့်ထားမှု စည်းမျဉ်းများကို တရားဝင် အတည်ပြုခြင်းဖြစ်သည်ဟု ရှုမြင်ကြသည်။"
     },
     "reasoning": {
-      "en": "The court's decision indicates that judges found sufficient legal grounds to justify moving the case to a full trial. The upcoming trial could potentially lead to a criminal conviction or an acquittal based on the evidence presented. It is also possible that the case will prompt further discussion on legal procedures for historic sexual assault allegations.",
-      "my": "တရားရုံး၏ ဆုံးဖြတ်ချက်သည် အမှုကို အပြည့်အဝ စစ်ဆေးရန် ခိုင်လုံသော ဥပဒေကြောင်းအရ အကြောင်းပြချက်များ ရှိသည်ကို တရားသူကြီးများ တွေ့ရှိခဲ့ကြောင်း ပြသနေသည်။ လာမည့် တရားရင်ဆိုင်မှုသည် တင်ပြလာသည့် သက်သေအထောက်အထားများအပေါ် မူတည်၍ ပြစ်ဒဏ်ချမှတ်ခြင်း သို့မဟုတ် အပြစ်မှ လွတ်မြောက်ခြင်းတို့ ဖြစ်ပေါ်လာနိုင်သည်။ ထို့အပြင် ဤအမှုကြောင့် အတိတ်က လိင်ပိုင်းဆိုင်ရာ စော်ကားစွပ်စွဲချက်များနှင့် ပတ်သက်သည့် ဥပဒေလုပ်ထုံးလုပ်နည်းများဆိုင်ရာ ဆွေးနွေးမှုများကို ပိုမိုတွန်းအားပေးဖွယ်ရှိသည်။"
+      "en": "This ruling may solidify the legal standing of religious symbol restrictions in public employment within Quebec. It is possible that affected groups could adapt to the upheld restrictions or seek further legal remedies, though specific next steps remain unstated.",
+      "my": "ဤဆုံးဖြတ်ချက်သည် ကွီဘက်ရှိ အများပြည်သူဆိုင်ရာ အလုပ်အကိုင်များတွင် ဘာသာရေးအမှတ်သင်္ကေတ ကန့်သတ်ချက်များ၏ ဥပဒေရေးရာ ခိုင်မာမှုကို အားကောင်းစေနိုင်သည်။ ထိခိုက်ခံရသည့် အုပ်စုများသည် အတည်ပြုလိုက်သည့် ကန့်သတ်ချက်များနှင့်အညီ လိုက်လျောညီထွေ နေထိုင်ကြခြင်း သို့မဟုတ် နောက်ထပ် တရားဥပဒေဆိုင်ရာ ကုစားမှုများ ရှာဖွေခြင်းတို့ ပြုလုပ်နိုင်သော်လည်း ရှေ့ဆက်ဆောင်ရွက်မည့် တိကျသော အဆင့်များကိုမူ ထုတ်ဖော်ပြောဆိုထားခြင်း မရှိသေးပေ။"
     },
     "source": {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
     },
     "case_id": null,
     "coverage": [
-      "Al Jazeera",
-      "BBC News"
+      "BBC News",
+      "The Guardian"
     ]
   },
   {
-    "id": "2026-11-26-002",
-    "date": "2026-11-26",
+    "id": "2026-11-27-002",
+    "date": "2026-11-27",
     "topic": "world",
     "roles": [
       "ir",
       "law"
     ],
     "title": {
-      "en": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "my": "ကူဝိတ်တွင် တိုက်ခိုက်မှုတစ်ခုကြောင့် အီတလီနိုင်ငံသား ၂ ဦး သေဆုံး၊ အီရန်က ၎င်းတို့တွင် တာဝန်မရှိကြောင်း ငြင်းဆို"
+      "en": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "my": "ကင်ညာ ကမ္ဘာပျက်ဂိုဏ်းခေါင်းဆောင် ထပ်မံသေဆုံးသူ ၁၂၃ ဦးအတွက် ပြစ်ဒဏ်စီရင်ခံရ"
     },
     "details": {
-      "en": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "my": "အီတလီ နိုင်ငံခြားရေးဝန်ကြီးဌာန၏ ပြောကြားချက်အရ သေဆုံးသူ နှစ်ဦးသည် ဂျာမနီကုမ္ပဏီ Rheinmetall မှ နည်းပညာရှင်များ ဖြစ်ကြသည်။"
+      "en": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "my": "ပေါလ် မက်ကင်ဇီ (Paul Mackenzie) သည် ကလေးငယ်များကို အစုလိုက်အပြုံလိုက် သတ်ဖြတ်မှုဖြင့် ထောင်ဒဏ်ကျခံရပြီး သီတင်းပတ်အနည်းငယ်အကြာတွင် ယခုအခါ နောက်လိုက်များကို သတ်ဖြတ်မှုဖြင့် ပြစ်မှုထင်ရှားတွေ့ရှိခဲ့သည်။"
     },
     "why_it_matters": {
-      "en": "Two Italian technicians working for German company Rheinmetall were killed in a strike in Kuwait. The event carries international significance, particularly as Iran has formally denied responsibility for the strike.",
-      "my": "ကူဝိတ်တွင် ဖြစ်ပွားခဲ့သော တိုက်ခိုက်မှုတစ်ခုအတွင်း ဂျာမနီကုမ္ပဏီ Rheinmetall တွင် အလုပ်လုပ်နေသော အီတလီ နည်းပညာရှင် နှစ်ဦး သေဆုံးခဲ့သည်။ အထူးသဖြင့် အီရန်က အဆိုပါ တိုက်ခိုက်မှုအတွက် တာဝန်ရှိကြောင်း တရားဝင် ငြင်းဆိုထားသဖြင့် ဤဖြစ်ရပ်သည် နိုင်ငံတကာ၏ အာရုံစိုက်မှုကို ရရှိနေသည်။"
+      "en": "Kenyan cult leader Paul Mackenzie has been convicted over an additional 123 deaths among his followers. This legal outcome comes weeks after he was jailed for the mass murder of children.",
+      "my": "ကင်ညာ ဂိုဏ်းခေါင်းဆောင် ပေါလ် မက်ကင်ဇီသည် နောက်လိုက် ၁၂၃ ဦး ထပ်မံသေဆုံးမှုအတွက် ပြစ်မှုထင်ရှားတွေ့ရှိခဲ့သည်။ ဤတရားဥပဒေဆိုင်ရာ အကျိုးဆက်သည် ကလေးငယ်များအား အစုလိုက်အပြုံလိုက် သတ်ဖြတ်မှုဖြင့် ထောင်ဒဏ်ကျခံရပြီး သီတင်းပတ်အနည်းငယ်အကြာတွင် ထွက်ပေါ်လာခြင်းဖြစ်သည်။"
     },
     "perspectives": {
-      "en": "Italy's foreign ministry likely views the fatal strike as a grave incident requiring clear accountability for the deaths of its citizens. Iranian officials maintain that their government bears no responsibility for the attack. It is unclear how Kuwaiti authorities or Rheinmetall view the immediate security implications for foreign contractors.",
-      "my": "အီတလီ နိုင်ငံခြားရေးဝန်ကြီးဌာနသည် အဆိုပါ သေဆုံးစေခဲ့သော တိုက်ခိုက်မှုကို မိမိနိုင်ငံသားများ သေဆုံးမှုအတွက် ရှင်းလင်းသော တာဝန်ယူမှု လိုအပ်သည့် ကြီးလေးသော ဖြစ်ရပ်တစ်ခုအဖြစ် ရှုမြင်ဖွယ်ရှိသည်။ အီရန်တာဝန်ရှိသူများကမူ ၎င်းတို့အစိုးရတွင် ဤတိုက်ခိုက်မှုအတွက် တာဝန်မရှိကြောင်း ဆက်လက်ပြောကြားထားသည်။ ကူဝိတ်အာဏာပိုင်များ သို့မဟုတ် Rheinmetall တို့က နိုင်ငံခြားသား ကန်ထရိုက်တာများအတွက် ချက်ချင်းကြုံတွေ့ရနိုင်သည့် လုံခြုံရေးဆိုင်ရာ ရိုက်ခတ်မှုများကို မည်သို့ရှုမြင်သည်ဆိုသည်မှာ မရှင်းလင်းသေးပေ။"
+      "en": "Prosecutors and the public likely view the conviction as necessary legal justice for the deaths of followers. The defense or followers may view the legal proceedings differently, though their specific arguments are not detailed in the report.",
+      "my": "တရားလိုရှေ့နေများနှင့် အများပြည်သူက ယခုပြစ်ဒဏ်စီရင်မှုကို သေဆုံးသွားသူ နောက်လိုက်များအတွက် လိုအပ်သော တရားဥပဒေဆိုင်ရာ တရားမျှတမှုအဖြစ် ရှုမြင်ကြဖွယ်ရှိသည်။ စွပ်စွဲခံရသူ၏ ရှေ့နေ သို့မဟုတ် နောက်လိုက်များကမူ တရားရင်ဆိုင်မှုများကို အခြားတစ်မျိုး ရှုမြင်နိုင်သော်လည်း သူတို့၏ တိကျသော လျှောက်လဲချက်များကို အစီရင်ခံစာတွင် အသေးစိတ် ဖော်ပြထားခြင်း မရှိပါ။"
     },
     "reasoning": {
-      "en": "The deaths of foreign military-industrial personnel could lead to heightened diplomatic pressure to investigate the source of the strike. Because Iran denies involvement, regional tensions could escalate if future findings contradict Tehran's statements. It is possible that international law discussions will focus on state responsibility and the protection of foreign technicians in conflict zones.",
-      "my": "နိုင်ငံခြားသား စစ်ဘက်ဆိုင်ရာစက်မှု နည်းပညာရှင်များ သေဆုံးမှုသည် တိုက်ခိုက်မှု၏ မူလဇာစ်မြစ်ကို စုံစမ်းစစ်ဆေးရန် သံတမန်ရေးရာ ဖိအားများကို မြင့်တက်စေနိုင်သည်။ အီရန်က ပါဝင်ပတ်သက်မှု မရှိကြောင်း ငြင်းဆိုထားသဖြင့် နောင်တွင် ထွက်ပေါ်လာမည့် တွေ့ရှိချက်များသည် တဟီရန်၏ ထုတ်ပြန်ချက်များနှင့် ဆန့်ကျင်ဘက်ဖြစ်ပါက ဒေသတွင်း တင်းမာမှုများ မြင့်တက်လာနိုင်သည်။ နိုင်ငံတကာဥပဒေဆိုင်ရာ ဆွေးနွေးမှုများသည် နိုင်ငံများ၏ တာဝန်ယူမှုနှင့် ပဋိပက္ခဇုန်များအတွင်းရှိ နိုင်ငံခြားသား နည်းပညာရှင်များအား အကာအကွယ်ပေးရေးအပေါ် အာရုံစိုက်လာနိုင်ခြေရှိသည်။"
+      "en": "The new conviction could lead to further legal penalties and extended sentencing for Mackenzie following his prior jail term. It is also possible that ongoing investigations might examine additional cult activities, though further proceedings are not explicitly confirmed.",
+      "my": "ပြစ်မှုထင်ရှားတွေ့ရှိမှုအသစ်သည် မက်ကင်ဇီအတွက် ယခင်ထောင်ဒဏ်အပြင် အခြားသော တရားဥပဒေဆိုင်ရာ အပြစ်ဒဏ်များနှင့် ထောင်ဒဏ်ကာလ တိုးမြှင့်ခြင်းတို့ဆီသို့ ဦးတည်သွားစေနိုင်သည်။ လက်ရှိစုံစမ်းစစ်ဆေးမှုများသည် ဂိုဏ်း၏ အခြားလှုပ်ရှားမှုများကို ထပ်မံစစ်ဆေးနိုင်ဖွယ်ရှိသော်လည်း နောက်ထပ် လုပ်ထုံးလုပ်နည်းများကို တိကျစွာ အတည်မပြုရသေးပေ။"
     },
     "source": {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
     },
     "case_id": null,
     "coverage": [
@@ -75,39 +76,115 @@
     ]
   },
   {
-    "id": "2026-11-26-003",
-    "date": "2026-11-26",
+    "id": "2026-11-27-003",
+    "date": "2026-11-27",
     "topic": "world",
     "roles": [
-      "law"
+      "ir"
     ],
     "title": {
-      "en": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "my": "လူ ၃၁ ဦး သေဆုံးခဲ့သည့် ဆီဘောက်ဆာယာဉ် မတော်တဆမှုနှင့် ပတ်သက်၍ အီဂျစ်အာဏာပိုင်များက ယာဉ်မောင်းအား ဖမ်းဆီး"
+      "en": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "my": "ဆော်ဒီအာရေဗျအတွင်း ဟူသီတို့၏ တိုက်ခိုက်မှုများက နိုင်ငံတော်၏ လုံခြုံရေး ပုံရိပ်ကို စိန်ခေါ်လျက်ရှိ"
     },
     "details": {
-      "en": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-      "my": "ယာဉ်မောင်းသည် အရှိန်ပြင်းစွာ မောင်းနှင်ခဲ့ပြီး အခြားယာဉ်များကို ကျော်တက်စဉ် ဆီဘောက်ဆာယာဉ်အား တိုက်မိခဲ့ကြောင်း ဝန်ခံခဲ့သည်ဟု အာဏာပိုင်များက ပြောကြားသည်။"
+      "en": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "my": "တိုက်ခိုက်မှုများ ရှိနေသော်လည်း ရီယာဒ်မြို့ရှိ ဈေးများနှင့် စားသောက်ဆိုင်များသည် စည်ကားနေဆဲဖြစ်ပြီး မြို့ခံများက ၎င်းတို့အား ကာကွယ်ပေးနိုင်မည့် အစိုးရအပေါ် ယုံကြည်မှု ရှိကြောင်း ပြောကြားကြသည်။"
     },
     "why_it_matters": {
-      "en": "Egyptian authorities have arrested a motorist following a fuel tanker crash that killed 31 people. The high casualty count underscores severe public safety and legal concerns regarding road transport enforcement in Egypt.",
-      "my": "လူ ၃၁ ဦး သေဆုံးခဲ့သည့် ဆီဘောက်ဆာယာဉ် တိုက်မှုဖြစ်ပွားပြီးနောက် အီဂျစ်အာဏာပိုင်များက ယာဉ်မောင်းတစ်ဦးကို ဖမ်းဆီးလိုက်သည်။ သေဆုံးသူ အရေအတွက် များပြားမှုသည် အီဂျစ်နိုင်ငံ၏ လမ်းပန်းဆက်သွယ်ရေး လုံခြုံရေးဆိုင်ရာ စည်းကမ်းထိန်းသိမ်းမှုနှင့် ပတ်သက်၍ ပြည်သူ့ဘေးအန္တရာယ်ကင်းရှင်းရေးနှင့် ဥပဒေဆိုင်ရာ စိုးရိမ်မကင်းဖြစ်မှုများကို ပေါ်လွင်စေသည်။"
+      "en": "Houthi strikes against Saudi Arabia are testing the kingdom's public image of national security. Despite these attacks, daily life in Riyadh remains active as residents express trust in government protection.",
+      "my": "ဆော်ဒီအာရေဗျကို ဟူသီတို့၏ တိုက်ခိုက်မှုများသည် နိုင်ငံ၏ အမျိုးသားလုံခြုံရေးဆိုင်ရာ အများပြည်သူ ပုံရိပ်ကို စိန်ခေါ်လျက်ရှိသည်။ ယင်းတိုက်ခိုက်မှုများရှိလင့်ကစား ရီယာဒ်မြို့ရှိ ပြည်သူများက အစိုးရ၏ လုံခြုံရေးအပေါ် ယုံကြည်မှုရှိကြောင်း ပြသကြသဖြင့် နေ့စဉ်ဘဝသည် ပုံမှန်အတိုင်း လှုပ်ရှားလျက်ရှိသည်။"
     },
     "perspectives": {
-      "en": "Egyptian officials view the arrest as a necessary law enforcement action after the driver confessed to speeding and clipping the fuel truck. Victims' families likely view the driver's admitted actions as a catastrophic instance of reckless driving. It is unclear how the defendant's legal representation will address the reported confession in court.",
-      "my": "အီဂျစ်တာဝန်ရှိသူများသည် ယာဉ်မောင်းက အရှိန်လွန်မောင်းနှင်မှုနှင့် ဆီဘောက်ဆာယာဉ်အား တိုက်မိခဲ့မှုကို ဝန်ခံခဲ့ပြီးနောက် ယခုဖမ်းဆီးမှုကို လိုအပ်သော တရားဥပဒေစိုးမိုးရေး လုပ်ဆောင်ချက်တစ်ခုအဖြစ် ရှုမြင်ကြသည်။ သေဆုံးသူများ၏ မိသားစုများသည် ယာဉ်မောင်း၏ ဝန်ခံချက်ကို မဆင်မခြင် မောင်းနှင်မှုကြောင့် ဖြစ်ပွားခဲ့သော ဆိုးရွားသည့် မတော်တဆမှုအဖြစ် ရှုမြင်ကြဖွယ်ရှိသည်။ တရားခံ၏ ဥပဒေရေးရာ ကိုယ်စားလှယ်များက သတင်းထွက်ပေါ်ထားသော ဝန်ခံချက်အား တရားရုံးတွင် မည်သို့ ရင်ဆိုင်မည်ကိုမူ မရှင်းလင်းသေးပေ။"
+      "en": "Houthi forces likely view the strikes as an effective strategy to challenge Saudi Arabia's security posture. In contrast, Riyadh residents and government officials view internal security measures as sufficient to maintain normal commercial activity.",
+      "my": "ဟူသီတပ်ဖွဲ့များက အဆိုပါတိုက်ခိုက်မှုများကို ဆော်ဒီအာရေဗျ၏ လုံခြုံရေးအခြေအနေကို စိန်ခေါ်ရန် ထိရောက်သော မဟာဗျူဟာအဖြစ် ရှုမြင်ကြဖွယ်ရှိသည်။ ၎င်းနှင့်ဆန့်ကျင်ဘက်အားဖြင့် ရီယာဒ်မြို့ခံများနှင့် အစိုးရတာဝန်ရှိသူများကမူ အတွင်းပိုင်းလုံခြုံရေး အစီအမံများသည် ပုံမှန်စီးပွားရေး လှုပ်ရှားမှုများကို ထိန်းသိမ်းထားရန် လုံလောက်သည်ဟု ရှုမြင်ကြသည်။"
     },
     "reasoning": {
-      "en": "The reported confession regarding speeding and improper overtaking gives prosecutors strong grounds to pursue criminal charges. The legal proceedings could potentially lead to severe penal sanctions under Egyptian traffic and criminal law. The tragedy may also prompt regulatory authorities to consider stricter traffic safety enforcement.",
-      "my": "အရှိန်လွန်မောင်းနှင်မှုနှင့် မဆင်မခြင် ကျော်တက်မှုဆိုင်ရာ သတင်းထွက် ဝန်ခံချက်သည် တရားလိုရှေ့နေများအတွက် ရာဇဝတ်ကြောင်းအရ တရားစွဲဆိုရန် ခိုင်လုံသော အကြောင်းပြချက် ဖြစ်စေသည်။ ဥပဒေကြောင်းအရ အရေးယူမှုများသည် အီဂျစ် ယာဉ်စည်းကမ်းနှင့် ရာဇဝတ်ဥပဒေများအရ ပြင်းထန်သော ပြစ်ဒဏ်များကို ဖြစ်ပေါ်စေနိုင်သည်။ ဤဝမ်းနည်းဖွယ် ဖြစ်ရပ်သည် ထိန်းချုပ်ကွပ်ကဲရေး အာဏာပိုင်များအား ပိုမိုတင်းကျပ်သော ယာဉ်အန္တရာယ်ကင်းရှင်းရေး စည်းကမ်းထိန်းသိမ်းမှုများ ပြုလုပ်ရန် စဉ်းစားလာစေနိုင်သည်။"
+      "en": "Continued strikes could potentially force Saudi authorities to adjust their defensive strategies or international security arrangements. Alternatively, sustained public trust in Riyadh may allow domestic economic activity in markets and restaurants to remain resilient.",
+      "my": "ဆက်လက်ဖြစ်ပွားနေသော တိုက်ခိုက်မှုများသည် ဆော်ဒီအာဏာပိုင်များအား ၎င်းတို့၏ ခံစစ်မဟာဗျူဟာများ သို့မဟုတ် နိုင်ငံတကာလုံခြုံရေး အစီအစဉ်များကို ပြင်ဆင်ပြောင်းလဲရန် ဖိအားပေးနိုင်သည်။ သို့မဟုတ် ရီယာဒ်မြို့ခံများ၏ လုံခြုံရေးအပေါ် ယုံကြည်မှု စွဲမြဲနေခြင်းက ဈေးများနှင့် စားသောက်ဆိုင်များ၏ ပြည်တွင်းစီးပွားရေး လှုပ်ရှားမှုများကို ဆက်လက် ကြံ့ကြံ့ခံနိုင်စေမည်ဖြစ်သည်။"
     },
     "source": {
       "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss"
     },
     "case_id": null,
     "coverage": [
-      "BBC News",
+      "Al Jazeera",
+      "BBC News"
+    ]
+  },
+  {
+    "id": "2026-11-27-004",
+    "date": "2026-11-27",
+    "topic": "diplomacy",
+    "roles": [
+      "ir",
+      "law"
+    ],
+    "title": {
+      "en": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
+      "my": "စပိန်ဝန်ကြီးချုပ် ပက်ဒရို ဆန်းချက်ဇ် ရွေးကောက်ပွဲ စစ်တမ်းများကို ကျော်လွန်နိုင်ရန် လက်ဝဲဝါဒီ မဲပေးမှု ပိုမိုမြင့်မားလာရေးကို ပုံအောထား"
+    },
+    "details": {
+      "en": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
+      "my": "ဝန်ကြီးချုပ် ပက်ဒရို ဆန်းချက်ဇ်သည် တနင်္ဂနွေနေ့ စပိန်မဲပေးပွဲ မတိုင်မီ လက်ယာဝါဒီပါတီများကို အနိုင်ရရှိရန် အဆုံးသတ် ကြိုးပမ်းမှု ပြုလုပ်လျက်ရှိသည်။"
+    },
+    "why_it_matters": {
+      "en": "Spanish Prime Minister Pedro Sanchez is attempting to overcome negative election polls ahead of Sunday's vote. His strategy relies on mobilizing a late left-wing voting surge to defeat competing right-wing parties.",
+      "my": "စပိန်ဝန်ကြီးချုပ် ပက်ဒရို ဆန်းချက်ဇ်သည် တနင်္ဂနွေနေ့ မဲပေးပွဲမတိုင်မီ ရွေးကောက်ပွဲ စစ်တမ်းများ၏ အနုတ်လက္ခဏာ ဆန်းစစ်ချက်များကို ကျော်လွှားရန် ကြိုးပမ်းနေသည်။ ၎င်း၏ မဟာဗျူဟာသည် ပြိုင်ဘက် လက်ယာဝါဒီပါတီများကို အနိုင်ယူရန် လက်ဝဲဝါဒီ မဲဆန္ဒရှင်များ နောက်ဆုံးအချိန် မဲပေးမှု မြင့်တက်လာရေး လှုံ့ဆော်မှုအပေါ် အမှီပြုထားသည်။"
+    },
+    "perspectives": {
+      "en": "Pedro Sanchez and his left-wing allies view high voter turnout as essential to overcoming current polling deficits. Right-wing opponents likely view the election polls as a accurate reflection of growing public support for political change in Spain.",
+      "my": "ပက်ဒရို ဆန်းချက်ဇ်နှင့် ၎င်း၏ လက်ဝဲဝါဒီ မဟာမိတ်များက မဲဆန္ဒရှင်များ အမြောက်အမြား လာရောက်မဲပေးခြင်းသည် လက်ရှိစစ်တမ်းများ၏ အားနည်းချက်ကို ကျော်လွှားရန် မရှိမဖြစ် လိုအပ်သည်ဟု ရှုမြင်ကြသည်။ လက်ယာဝါဒီ ပြိုင်ဘက်များကမူ ရွေးကောက်ပွဲ စစ်တမ်းများသည် စပိန်၏ နိုင်ငံရေးပြောင်းလဲမှုအတွက် ပြည်သူ့ထောက်ခံမှု တိုးတက်လာခြင်းကို တိကျစွာ ရောင်ပြန်ဟပ်နေခြင်း ဖြစ်သည်ဟု ရှုမြင်ကြဖွယ်ရှိသည်။"
+    },
+    "reasoning": {
+      "en": "A significant surge in left-wing turnout might potentially allow Sanchez to defy existing poll predictions on Sunday. Conversely, if right-wing parties maintain their polled advantage, the election could result in a change of national leadership.",
+      "my": "လက်ဝဲဝါဒီ မဲဆန္ဒရှင်များ သိသိသာသာ ထွက်ပေါ်လာခြင်းက တနင်္ဂနွေနေ့တွင် ဆန်းချက်ဇ်အား လက်ရှိ စစ်တမ်းခန့်မှန်းချက်များကို ကျော်လွန်နိုင်စေပေမည်။ ၎င်းနှင့်ဆန့်ကျင်ဘက်အားဖြင့် လက်ယာဝါဒီပါတီများက စစ်တမ်းပါ အသာစီးရမှုကို ထိန်းသိမ်းထားနိုင်ပါက အဆိုပါရွေးကောက်ပွဲသည် နိုင်ငံတော်ခေါင်းဆောင်မှု ပြောင်းလဲသွားသည့် အကျိုးဆက် ထွက်ပေါ်လာနိုင်သည်။"
+    },
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "Al Jazeera",
+      "The Guardian"
+    ]
+  },
+  {
+    "id": "2026-11-27-005",
+    "date": "2026-11-27",
+    "topic": "world",
+    "roles": [
+      "ir",
+      "law"
+    ],
+    "title": {
+      "en": "Norse Atlantic files for bankruptcy, halts flights and ticket sales",
+      "my": "နော့စ် အတ္တလန္တိတ် (Norse Atlantic) လေကြောင်းလိုင်း ဒေဝါလီခံရန် လျှောက်ထား၊ လေကြောင်းခရီးစဉ်များနှင့် လက်မှတ်ရောင်းချမှုများ ရပ်ဆိုင်း"
+    },
+    "details": {
+      "en": "Passengers advised to seek refunds via bankruptcy process, though guarantees are not assured, warns Norse Atlantic.",
+      "my": "ခရီးသည်များအနေဖြင့် ဒေဝါလီခံမှု လုပ်ငန်းစဉ်မှတစ်ဆင့် ငွေပြန်လည်တောင်းခံကြရန် အကြံပြုထားသော်လည်း အာမခံချက်မရှိကြောင်း နော့စ် အတ္တလန္တိတ်က သတိပေးထားသည်။"
+    },
+    "why_it_matters": {
+      "en": "Airline Norse Atlantic has halted all flights and ticket sales after officially filing for bankruptcy. The company has directed affected passengers to seek refunds through the legal bankruptcy process, though reimbursement is not guaranteed.",
+      "my": "နော့စ် အတ္တလန္တိတ် လေကြောင်းလိုင်းသည် ဒေဝါလီခံရန် တရားဝင် လျှောက်ထားပြီးနောက် လေကြောင်းခရီးစဉ်အားလုံးနှင့် လက်မှတ်ရောင်းချမှုများကို ရပ်ဆိုင်းလိုက်သည်။ ကုမ္ပဏီက ထိခိုက်နစ်နာရသော ခရီးသည်များအား တရားဥပဒေကြောင်းအရ ဒေဝါလီခံမှု လုပ်ငန်းစဉ်မှတစ်ဆင့် ငွေပြန်လည်တောင်းခံရန် ညွှန်ကြားထားသော်လည်း ငွေပြန်အမ်းရရှိမှုကိုမူ အာမမခံနိုင်ပါ။"
+    },
+    "perspectives": {
+      "en": "Norse Atlantic views the bankruptcy process as the formal legal mechanism for resolving customer refund claims. Disrupted passengers likely view the abrupt flight cancellations and unassured refunds as a major operational and financial hardship.",
+      "my": "နော့စ် အတ္တလန္တိတ်က ဒေဝါလီခံမှု လုပ်ငန်းစဉ်ကို သုံးစွဲသူများ၏ ငွေပြန်အမ်းရေး တောင်းဆိုချက်များကို ဖြေရှင်းရန် တရားဝင် ဥပဒေကြောင်းအရ လုပ်ထုံးလုပ်နည်းအဖြစ် ရှုမြင်သည်။ ခရီးစဉ်များ ရုတ်တရက် ရပ်ဆိုင်းခံရသော ခရီးသည်များကမူ ခရီးစဉ် ရုတ်တရက် ဖျက်သိမ်းခြင်းနှင့် အာမခံချက်မရှိသော ငွေပြန်အမ်းမှုတို့ကို ကြီးမားသော လုပ်ငန်းဆိုင်ရာနှင့် ဘဏ္ဍာရေးဆိုင်ရာ အခက်အခဲအဖြစ် ရှုမြင်ကြဖွယ်ရှိသည်။"
+    },
+    "reasoning": {
+      "en": "The bankruptcy filing will likely lead to court-supervised proceedings to settle corporate liabilities. It is possible that passengers may receive only partial refunds or experience lengthy delays, given that guarantees are explicitly not assured.",
+      "my": "ဒေဝါလီခံရန် လျှောက်ထားခြင်းသည် ကုမ္ပဏီ၏ ကြွေးမြီနှင့် တာဝန်ရှိမှုများကို ဖြေရှင်းရန် တရားရုံး၏ ကြီးကြပ်မှုဆိုင်ရာ လုပ်ငန်းစဉ်များဆီသို့ ဦးတည်သွားဖွယ်ရှိသည်။ အာမခံချက်မရှိကြောင်း တိကျစွာ ပြောကြားထားသဖြင့် ခရီးသည်များအနေဖြင့် ငွေကြေး အစိတ်အပိုင်းမျှသာ ပြန်လည်ရရှိခြင်း သို့မဟုတ် ကြာမြင့်စွာ စောင့်ဆိုင်းရခြင်းတို့ ကြုံတွေ့ရနိုင်သည်။"
+    },
+    "source": {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales?traffic_source=rss"
+    },
+    "case_id": null,
+    "coverage": [
+      "Al Jazeera",
       "The Guardian"
     ]
   }
